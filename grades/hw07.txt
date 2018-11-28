@@ -1,0 +1,16 @@
+Part 1 Constructors and Type Casting: 24/30
+
+-5 Because the code does not compile using the makefile
+-1 Because the bool type casting logic is incorrect
+
+Part 2 Comparison Operators: 7/10
+
+-3 Because the logic is wrong in multiple comparison operators
+
+
+Part 3 Mathematical Operators: 17/20
+
+-3 Because logic of many mathematical operators and unary operators is incorrect
+
+GRADE: 48/60
+

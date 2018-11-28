@@ -1,0 +1,14 @@
+Part 1 Average: 15/15
+
+- Well done, everything is in working order! 
+
+Part 2 ASCII: 15/15
+
+- Well done, everything is in working order! 
+
+Part 3 Rot13.5: 15/15
+
+- Well done, everything is in working order! 
+
+GRADE: 45/45
+

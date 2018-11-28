@@ -1,0 +1,23 @@
+Part 1 Argc & Argv: 14/15
+
+Everything works correctly on the program except that if a user does not enter the correct input or does not pass any args then the program does not respond in the right way.
+
+-1	    Didn't check for missing args		
+
+
+Part 2 Random Number Generator: 15/15
+
+Great code. Efficient and clear, no errors.
+
+
+Part 3  Stats: 10/15
+
+The sum function is off because you start the sum at the value of the first number instead of at 0. This affects your mean, total, and std dev. Also, if there are non-numerical inputs, no error is displayed, just the rows with zero values.
+
+-4   Programm runs, but does not give the right answer/only parts of the right answer  	 
+-1   Does not print error and exit for invalid input (non-numbers)		
+
+
+
+GRADE: 39/45
+

@@ -1,0 +1,14 @@
+Part 1 Factors: 14/15
+
+* Good Comment and identation
+* The program should print the numbers in ascending order (-1)
+	- e.g factors for -2 should be printed as -2,-1,1,2
+* You can for example handle the ordering by creating
+  - start and end variables and using them as an index to iterate your loop  
+  	
+Part 2 Multiplication Table: 15/15
+
+* Good Comment and your code would be more readable if you put more space between some of the lines (e.g when you start a loop)
+
+GRADE: 29/30
+
